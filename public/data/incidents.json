@@ -1,0 +1,58 @@
+[
+  {
+    "id": "inc001",
+    "zone_id": "z002",
+    "date": "2026-10-20",
+    "severity": 0.8,
+    "description": "Reported harassment incident near Old City Lanes"
+  },
+  {
+    "id": "inc002",
+    "zone_id": "z005",
+    "date": "2026-10-22",
+    "severity": 0.9,
+    "description": "Theft reported in Industrial Zone North after 10 PM"
+  },
+  {
+    "id": "inc003",
+    "zone_id": "z010",
+    "date": "2026-10-18",
+    "severity": 0.75,
+    "description": "Stalking incident reported at Underpass Junction"
+  },
+  {
+    "id": "inc004",
+    "zone_id": "z001",
+    "date": "2026-10-23",
+    "severity": 0.6,
+    "description": "Bag snatching near Central Market ATM"
+  },
+  {
+    "id": "inc005",
+    "zone_id": "z019",
+    "date": "2026-10-21",
+    "severity": 0.85,
+    "description": "Suspicious vehicle following pedestrian on Cremation Ground Road"
+  },
+  {
+    "id": "inc006",
+    "zone_id": "z015",
+    "date": "2026-10-17",
+    "severity": 0.65,
+    "description": "Verbal harassment at Wholesale Market early morning"
+  },
+  {
+    "id": "inc007",
+    "zone_id": "z007",
+    "date": "2026-10-24",
+    "severity": 0.7,
+    "description": "Harassment near Bus Terminal East late evening"
+  },
+  {
+    "id": "inc008",
+    "zone_id": "z016",
+    "date": "2026-10-19",
+    "severity": 0.72,
+    "description": "Group following incident near West Bridge"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "z001",
+    "name": "Central Market Area",
+    "lat": 28.6448,
+    "lon": 77.2167,
+    "radius": 500,
+    "base_risk": 0.65,
+    "notes": "High foot traffic; reported incidents near ATMs at night"
+  },
+  {
+    "id": "z002",
+    "name": "Old City Lanes",
+    "lat": 28.6562,
+    "lon": 77.2410,
+    "radius": 400,
+    "base_risk": 0.72,
+    "notes": "Poorly lit alleyways; limited CCTV coverage"
+  },
+  {
+    "id": "z003",
+    "name": "North Railway Station",
+    "lat": 28.6430,
+    "lon": 77.2195,
+    "radius": 600,
+    "base_risk": 0.58,
+    "notes": "Crowded at night; reported harassment cases"
+  },
+  {
+    "id": "z004",
+    "name": "City Park West",
+    "lat": 28.6300,
+    "lon": 77.2100,
+    "radius": 700,
+    "base_risk": 0.30,
+    "notes": "Well-lit park; patrol presence during day"
+  },
+  {
+    "id": "z005",
+    "name": "Industrial Zone North",
+    "lat": 28.6700,
+    "lon": 77.2300,
+    "radius": 800,
+    "base_risk": 0.80,
+    "notes": "Isolated area; minimal foot traffic after 8 PM"
+  },
+  {
+    "id": "z006",
+    "name": "University Campus",
+    "lat": 28.6200,
+    "lon": 77.2050,
+    "radius": 1000,
+    "base_risk": 0.25,
+    "notes": "Campus security present; relatively safe"
+  },
+  {
+    "id": "z007",
+    "name": "Bus Terminal East",
+    "lat": 28.6500,
+    "lon": 77.2600,
+    "radius": 400,
+    "base_risk": 0.60,
+    "notes": "High harassment reports; limited lighting on east side"
+  },
+  {
+    "id": "z008",
+    "name": "Residential Colony A",
+    "lat": 28.6100,
+    "lon": 77.1900,
+    "radius": 600,
+    "base_risk": 0.20,
+    "notes": "Quiet residential area; active neighbourhood watch"
+  },
+  {
+    "id": "z009",
+    "name": "Night Market Strip",
+    "lat": 28.6480,
+    "lon": 77.2280,
+    "radius": 350,
+    "base_risk": 0.55,
+    "notes": "Active market; risk increases after midnight"
+  },
+  {
+    "id": "z010",
+    "name": "Underpass Junction",
+    "lat": 28.6350,
+    "lon": 77.2350,
+    "radius": 300,
+    "base_risk": 0.78,
+    "notes": "Dark underpass; reported incidents of theft and harassment"
+  },
+  {
+    "id": "z011",
+    "name": "Hospital District",
+    "lat": 28.6250,
+    "lon": 77.2150,
+    "radius": 500,
+    "base_risk": 0.35,
+    "notes": "24-hour activity; security staff present"
+  },
+  {
+    "id": "z012",
+    "name": "Tech Park Outer Ring",
+    "lat": 28.6180,
+    "lon": 77.2400,
+    "radius": 700,
+    "base_risk": 0.42,
+    "notes": "Isolated stretch between offices; risk after office hours"
+  },
+  {
+    "id": "z013",
+    "name": "Metro Station Plaza",
+    "lat": 28.6390,
+    "lon": 77.2070,
+    "radius": 400,
+    "base_risk": 0.38,
+    "notes": "Good lighting and CCTV; risk at late-night closures"
+  },
+  {
+    "id": "z014",
+    "name": "Lakeside Path",
+    "lat": 28.6120,
+    "lon": 77.2250,
+    "radius": 600,
+    "base_risk": 0.50,
+    "notes": "Popular jogging path; isolated sections near the east bank"
+  },
+  {
+    "id": "z015",
+    "name": "Wholesale Vegetable Market",
+    "lat": 28.6580,
+    "lon": 77.2020,
+    "radius": 500,
+    "base_risk": 0.68,
+    "notes": "Chaotic early mornings; strangers common at odd hours"
+  },
+  {
+    "id": "z016",
+    "name": "West Bridge Area",
+    "lat": 28.6450,
+    "lon": 77.1850,
+    "radius": 400,
+    "base_risk": 0.62,
+    "notes": "Under-lit bridge; limited visibility late night"
+  },
+  {
+    "id": "z017",
+    "name": "Shopping Mall Complex",
+    "lat": 28.6320,
+    "lon": 77.2180,
+    "radius": 600,
+    "base_risk": 0.28,
+    "notes": "Security guards on duty; parking area risk after 10 PM"
+  },
+  {
+    "id": "z018",
+    "name": "Government Offices Quarter",
+    "lat": 28.6270,
+    "lon": 77.2320,
+    "radius": 700,
+    "base_risk": 0.22,
+    "notes": "Daytime only activity; deserted after 6 PM"
+  },
+  {
+    "id": "z019",
+    "name": "Cremation Ground Road",
+    "lat": 28.6620,
+    "lon": 77.2150,
+    "radius": 350,
+    "base_risk": 0.85,
+    "notes": "Isolated road; very few people after dusk"
+  },
+  {
+    "id": "z020",
+    "name": "Outer Ring Highway Stretch",
+    "lat": 28.6750,
+    "lon": 77.2050,
+    "radius": 1200,
+    "base_risk": 0.75,
+    "notes": "Highway shoulder; limited lighting, infrequent traffic at night"
+  }
+]

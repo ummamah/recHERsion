@@ -1,0 +1,331 @@
+sender,timestamp,text,url,ip,label,incident_id
+msg_0000,Alice,2026-10-01T08:00:00.000Z,Hey, are you free this weekend?,,, safe,inc_safe_0
+msg_0001,Grace,2026-10-01T08:15:00.000Z,Can we reschedule our meeting to Monday?,,, safe,inc_safe_1
+msg_0002,Sam,2026-10-01T08:30:00.000Z,Thanks for your help yesterday!,,, safe,inc_safe_2
+msg_0003,Olivia,2026-10-01T08:45:00.000Z,I'll be there in 10 minutes.,,, safe,inc_safe_3
+msg_0004,Frank,2026-10-01T09:00:00.000Z,Did you see the match last night?,,, safe,inc_safe_4
+msg_0005,Karen,2026-10-01T09:15:00.000Z,Happy birthday! Hope you have a great day.,,, safe,inc_safe_5
+msg_0006,Mona,2026-10-01T09:30:00.000Z,Can you recommend a good restaurant nearby?,,, safe,inc_safe_6
+msg_0007,Leo,2026-10-01T09:45:00.000Z,Just checking in — how are you doing?,,, safe,inc_safe_7
+msg_0008,Jake,2026-10-01T10:00:00.000Z,Great work on the project!,,, safe,inc_safe_8
+msg_0009,Ivy,2026-10-01T10:15:00.000Z,Let me know when you arrive.,,, safe,inc_safe_9
+msg_0010,Charlie,2026-10-01T10:30:00.000Z,Do you want to grab coffee tomorrow?,,, safe,inc_safe_10
+msg_0011,Pete,2026-10-01T10:45:00.000Z,I left my umbrella at your place can I pick it up?,,, safe,inc_safe_11
+msg_0012,Alice,2026-10-01T11:00:00.000Z,See you at 6 PM!,,, safe,inc_safe_12
+msg_0013,Quinn,2026-10-01T11:15:00.000Z,Thanks for the info.,,, safe,inc_safe_13
+msg_0014,Rose,2026-10-01T11:30:00.000Z,Good morning! Ready for the day?,,, safe,inc_safe_14
+msg_0015,Bob,2026-10-01T11:45:00.000Z,Call me when you get a chance.,,, safe,inc_safe_15
+msg_0016,Tara,2026-10-01T12:00:00.000Z,Dinner at 8? Let me know.,,, safe,inc_safe_16
+msg_0017,Nick,2026-10-01T12:15:00.000Z,Looking forward to the trip!,,, safe,inc_safe_17
+msg_0018,Eve,2026-10-01T12:30:00.000Z,The report looks good. Nice work.,,, safe,inc_safe_18
+msg_0019,Dave,2026-10-01T12:45:00.000Z,Can you share the meeting notes?,,, safe,inc_safe_19
+msg_0020,Hank,2026-10-01T13:00:00.000Z,Let's catch up soon.,,, safe,inc_safe_20
+msg_0021,Grace,2026-10-01T13:15:00.000Z,Hope your interview went well!,,, safe,inc_safe_21
+msg_0022,Sam,2026-10-01T13:30:00.000Z,I'll send the files over shortly.,,, safe,inc_safe_22
+msg_0023,Olivia,2026-10-01T13:45:00.000Z,Thanks for covering for me.,,, safe,inc_safe_23
+msg_0024,Frank,2026-10-01T14:00:00.000Z,Great to hear from you!,,, safe,inc_safe_24
+msg_0025,Alice,2026-10-01T14:15:00.000Z,Hey, are you free this weekend?,,, safe,inc_safe_25
+msg_0026,Grace,2026-10-01T14:30:00.000Z,Can we reschedule our meeting to Monday?,,, safe,inc_safe_26
+msg_0027,Sam,2026-10-01T14:45:00.000Z,Thanks for your help yesterday!,,, safe,inc_safe_27
+msg_0028,Olivia,2026-10-01T15:00:00.000Z,I'll be there in 10 minutes.,,, safe,inc_safe_28
+msg_0029,Frank,2026-10-01T15:15:00.000Z,Did you see the match last night?,,, safe,inc_safe_29
+msg_0030,Karen,2026-10-01T15:30:00.000Z,Happy birthday! Hope you have a great day.,,, safe,inc_safe_30
+msg_0031,Mona,2026-10-01T15:45:00.000Z,Can you recommend a good restaurant nearby?,,, safe,inc_safe_31
+msg_0032,Leo,2026-10-01T16:00:00.000Z,Just checking in — how are you doing?,,, safe,inc_safe_32
+msg_0033,Jake,2026-10-01T16:15:00.000Z,Great work on the project!,,, safe,inc_safe_33
+msg_0034,Ivy,2026-10-01T16:30:00.000Z,Let me know when you arrive.,,, safe,inc_safe_34
+msg_0035,Charlie,2026-10-01T16:45:00.000Z,Do you want to grab coffee tomorrow?,,, safe,inc_safe_35
+msg_0036,Pete,2026-10-01T17:00:00.000Z,I left my umbrella at your place can I pick it up?,,, safe,inc_safe_36
+msg_0037,Alice,2026-10-01T17:15:00.000Z,See you at 6 PM!,,, safe,inc_safe_37
+msg_0038,Quinn,2026-10-01T17:30:00.000Z,Thanks for the info.,,, safe,inc_safe_38
+msg_0039,Rose,2026-10-01T17:45:00.000Z,Good morning! Ready for the day?,,, safe,inc_safe_39
+msg_0040,Bob,2026-10-01T18:00:00.000Z,Call me when you get a chance.,,, safe,inc_safe_40
+msg_0041,Tara,2026-10-01T18:15:00.000Z,Dinner at 8? Let me know.,,, safe,inc_safe_41
+msg_0042,Nick,2026-10-01T18:30:00.000Z,Looking forward to the trip!,,, safe,inc_safe_42
+msg_0043,Eve,2026-10-01T18:45:00.000Z,The report looks good. Nice work.,,, safe,inc_safe_43
+msg_0044,Dave,2026-10-01T19:00:00.000Z,Can you share the meeting notes?,,, safe,inc_safe_44
+msg_0045,Hank,2026-10-01T19:15:00.000Z,Let's catch up soon.,,, safe,inc_safe_45
+msg_0046,Grace,2026-10-01T19:30:00.000Z,Hope your interview went well!,,, safe,inc_safe_46
+msg_0047,Sam,2026-10-01T19:45:00.000Z,I'll send the files over shortly.,,, safe,inc_safe_47
+msg_0048,Olivia,2026-10-01T20:00:00.000Z,Thanks for covering for me.,,, safe,inc_safe_48
+msg_0049,Frank,2026-10-01T20:15:00.000Z,Great to hear from you!,,, safe,inc_safe_49
+msg_0050,Alice,2026-10-01T20:30:00.000Z,See you at 6 PM!,,, safe,inc_safe_50
+msg_0051,Quinn,2026-10-01T20:45:00.000Z,Thanks for the info.,,, safe,inc_safe_51
+msg_0052,Rose,2026-10-01T21:00:00.000Z,Good morning! Ready for the day?,,, safe,inc_safe_52
+msg_0053,Bob,2026-10-01T21:15:00.000Z,Call me when you get a chance.,,, safe,inc_safe_53
+msg_0054,Tara,2026-10-01T21:30:00.000Z,Dinner at 8? Let me know.,,, safe,inc_safe_54
+msg_0055,Nick,2026-10-01T21:45:00.000Z,Looking forward to the trip!,,, safe,inc_safe_55
+msg_0056,Eve,2026-10-01T22:00:00.000Z,The report looks good. Nice work.,,, safe,inc_safe_56
+msg_0057,Dave,2026-10-01T22:15:00.000Z,Can you share the meeting notes?,,, safe,inc_safe_57
+msg_0058,Hank,2026-10-01T22:30:00.000Z,Let's catch up soon.,,, safe,inc_safe_58
+msg_0059,Grace,2026-10-01T22:45:00.000Z,Hope your interview went well!,,, safe,inc_safe_59
+msg_0060,Sam,2026-10-01T23:00:00.000Z,I'll send the files over shortly.,,, safe,inc_safe_60
+msg_0061,Olivia,2026-10-01T23:15:00.000Z,Thanks for covering for me.,,, safe,inc_safe_61
+msg_0062,Frank,2026-10-01T23:30:00.000Z,Great to hear from you!,,, safe,inc_safe_62
+msg_0063,Karen,2026-10-01T23:45:00.000Z,Hey are you free this weekend?,,, safe,inc_safe_63
+msg_0064,Mona,2026-10-02T00:00:00.000Z,Can we reschedule our meeting to Monday?,,, safe,inc_safe_64
+msg_0065,Leo,2026-10-02T00:15:00.000Z,Thanks for your help yesterday!,,, safe,inc_safe_65
+msg_0066,Jake,2026-10-02T00:30:00.000Z,I'll be there in 10 minutes.,,, safe,inc_safe_66
+msg_0067,Ivy,2026-10-02T00:45:00.000Z,Did you see the match last night?,,, safe,inc_safe_67
+msg_0068,Charlie,2026-10-02T01:00:00.000Z,Let me know when you arrive.,,, safe,inc_safe_68
+msg_0069,Pete,2026-10-02T01:15:00.000Z,Do you want to grab coffee tomorrow?,,, safe,inc_safe_69
+msg_0070,Alice,2026-10-02T01:30:00.000Z,Great work on the project!,,, safe,inc_safe_70
+msg_0071,Quinn,2026-10-02T01:45:00.000Z,See you at 6 PM!,,, safe,inc_safe_71
+msg_0072,Rose,2026-10-02T02:00:00.000Z,Thanks for the info.,,, safe,inc_safe_72
+msg_0073,Bob,2026-10-02T02:15:00.000Z,Call me when you get a chance.,,, safe,inc_safe_73
+msg_0074,Tara,2026-10-02T02:30:00.000Z,Dinner at 8? Let me know.,,, safe,inc_safe_74
+msg_0075,Nick,2026-10-02T02:45:00.000Z,Looking forward to the trip!,,, safe,inc_safe_75
+msg_0076,Eve,2026-10-02T03:00:00.000Z,The report looks good. Nice work.,,, safe,inc_safe_76
+msg_0077,Dave,2026-10-02T03:15:00.000Z,Can you share the meeting notes?,,, safe,inc_safe_77
+msg_0078,Hank,2026-10-02T03:30:00.000Z,Let's catch up soon.,,, safe,inc_safe_78
+msg_0079,Grace,2026-10-02T03:45:00.000Z,Hope your interview went well!,,, safe,inc_safe_79
+msg_0080,Sam,2026-10-02T04:00:00.000Z,I'll send the files over shortly.,,, safe,inc_safe_80
+msg_0081,Olivia,2026-10-02T04:15:00.000Z,Thanks for covering for me.,,, safe,inc_safe_81
+msg_0082,Frank,2026-10-02T04:30:00.000Z,Great to hear from you!,,, safe,inc_safe_82
+msg_0083,Karen,2026-10-02T04:45:00.000Z,Hey are you free this weekend?,,, safe,inc_safe_83
+msg_0084,Mona,2026-10-02T05:00:00.000Z,Can we reschedule our meeting to Monday?,,, safe,inc_safe_84
+msg_0085,Leo,2026-10-02T05:15:00.000Z,Thanks for your help yesterday!,,, safe,inc_safe_85
+msg_0086,Jake,2026-10-02T05:30:00.000Z,I'll be there in 10 minutes.,,, safe,inc_safe_86
+msg_0087,Ivy,2026-10-02T05:45:00.000Z,Did you see the match last night?,,, safe,inc_safe_87
+msg_0088,Charlie,2026-10-02T06:00:00.000Z,Let me know when you arrive.,,, safe,inc_safe_88
+msg_0089,Pete,2026-10-02T06:15:00.000Z,Do you want to grab coffee tomorrow?,,, safe,inc_safe_89
+msg_0090,Alice,2026-10-02T06:30:00.000Z,Great work on the project!,,, safe,inc_safe_90
+msg_0091,Quinn,2026-10-02T06:45:00.000Z,See you at 6 PM!,,, safe,inc_safe_91
+msg_0092,Rose,2026-10-02T07:00:00.000Z,Thanks for the info.,,, safe,inc_safe_92
+msg_0093,Bob,2026-10-02T07:15:00.000Z,Call me when you get a chance.,,, safe,inc_safe_93
+msg_0094,Tara,2026-10-02T07:30:00.000Z,Dinner at 8? Let me know.,,, safe,inc_safe_94
+msg_0095,Nick,2026-10-02T07:45:00.000Z,Looking forward to the trip!,,, safe,inc_safe_95
+msg_0096,Eve,2026-10-02T08:00:00.000Z,The report looks good. Nice work.,,, safe,inc_safe_96
+msg_0097,Dave,2026-10-02T08:15:00.000Z,Can you share the meeting notes?,,, safe,inc_safe_97
+msg_0098,Hank,2026-10-02T08:30:00.000Z,Let's catch up soon.,,, safe,inc_safe_98
+msg_0099,Grace,2026-10-02T08:45:00.000Z,Hope your interview went well!,,, safe,inc_safe_99
+msg_0100,Bank_Fraud_1,2026-10-06T09:00:00.000Z,Calling from bank RBI. Account suspended. Verify card details now.,,, suspicious,inc_susp_0
+msg_0101,Phisher_2,2026-10-06T09:20:00.000Z,Your account will be blocked in 24 hours. Send OTP immediately.,,, suspicious,inc_susp_1
+msg_0102,Tax_Scam_3,2026-10-06T09:40:00.000Z,This is an official notice. You owe outstanding taxes. Pay now.,,, suspicious,inc_susp_2
+msg_0103,Lottery_4,2026-10-06T10:00:00.000Z,You have won a lottery. Send your bank details to claim prize.,,, suspicious,inc_susp_3
+msg_0104,Imp_5,2026-10-06T10:20:00.000Z,New phone number. Please update your contacts. Need help urgently.,,, suspicious,inc_susp_4
+msg_0105,Delivery_6,2026-10-06T10:40:00.000Z,Your delivery is on hold. Confirm address and pay small fee at bit.ly/abc123.,bit.ly/abc123,, suspicious,inc_susp_5
+msg_0106,Offer_7,2026-10-06T11:00:00.000Z,Limited time offer! Claim your reward before it expires today.,,, suspicious,inc_susp_6
+msg_0107,Netflix_8,2026-10-06T11:20:00.000Z,Your Netflix account will be suspended. Update payment at tinyurl.com/xz9,tinyurl.com/xz9,, suspicious,inc_susp_7
+msg_0108,Stalker_9,2026-10-06T11:40:00.000Z,I have information about you. Meet me or I will share it.,,, suspicious,inc_susp_8
+msg_0109,Coerce_10,2026-10-06T12:00:00.000Z,You must respond within one hour or consequences will follow.,,, suspicious,inc_susp_9
+msg_0110,Warn_11,2026-10-06T12:20:00.000Z,This is your final reminder. No other way out. Pay now.,,, suspicious,inc_susp_10
+msg_0111,Blackmail_12,2026-10-06T12:40:00.000Z,Send me your photos or I will post old ones online.,,, suspicious,inc_susp_11
+msg_0112,Fraud_13,2026-10-06T13:00:00.000Z,Verify your identity by sharing Aadhaar number. Official process.,,, suspicious,inc_susp_12
+msg_0113,UPI_14,2026-10-06T13:20:00.000Z,Your UPI PIN has been compromised. Re-enter at this link to secure.,,, suspicious,inc_susp_13
+msg_0114,Police_15,2026-10-06T13:40:00.000Z,Police case registered against you. Call immediately to avoid arrest.,,, suspicious,inc_susp_14
+msg_0115,Bank_Fraud_1,2026-10-06T14:00:00.000Z,Calling from bank RBI. Account suspended. Verify card details now.,,, suspicious,inc_susp_15
+msg_0116,Phisher_2,2026-10-06T14:20:00.000Z,Your account will be blocked in 24 hours. Send OTP immediately.,,, suspicious,inc_susp_16
+msg_0117,Tax_Scam_3,2026-10-06T14:40:00.000Z,This is an official notice. You owe outstanding taxes. Pay now.,,, suspicious,inc_susp_17
+msg_0118,Lottery_4,2026-10-06T15:00:00.000Z,You have won a lottery. Send your bank details to claim prize.,,, suspicious,inc_susp_18
+msg_0119,Imp_5,2026-10-06T15:20:00.000Z,New phone number. Please update your contacts. Need help urgently.,,, suspicious,inc_susp_19
+msg_0120,Delivery_6,2026-10-06T15:40:00.000Z,Your delivery is on hold. Confirm address and pay small fee at bit.ly/abc123.,bit.ly/abc123,, suspicious,inc_susp_20
+msg_0121,Offer_7,2026-10-06T16:00:00.000Z,Limited time offer! Claim your reward before it expires today.,,, suspicious,inc_susp_21
+msg_0122,Netflix_8,2026-10-06T16:20:00.000Z,Your Netflix account will be suspended. Update payment at tinyurl.com/xz9,tinyurl.com/xz9,, suspicious,inc_susp_22
+msg_0123,Stalker_9,2026-10-06T16:40:00.000Z,I have information about you. Meet me or I will share it.,,, suspicious,inc_susp_23
+msg_0124,Coerce_10,2026-10-06T17:00:00.000Z,You must respond within one hour or consequences will follow.,,, suspicious,inc_susp_24
+msg_0125,Warn_11,2026-10-06T17:20:00.000Z,This is your final reminder. No other way out. Pay now.,,, suspicious,inc_susp_25
+msg_0126,Blackmail_12,2026-10-06T17:40:00.000Z,Send me your photos or I will post old ones online.,,, suspicious,inc_susp_26
+msg_0127,Fraud_13,2026-10-06T18:00:00.000Z,Verify your identity by sharing Aadhaar number. Official process.,,, suspicious,inc_susp_27
+msg_0128,UPI_14,2026-10-06T18:20:00.000Z,Your UPI PIN has been compromised. Re-enter at this link to secure.,,, suspicious,inc_susp_28
+msg_0129,Police_15,2026-10-06T18:40:00.000Z,Police case registered against you. Call immediately to avoid arrest.,,, suspicious,inc_susp_29
+msg_0130,Bank_Fraud_1,2026-10-06T19:00:00.000Z,Calling from bank RBI. Account suspended. Verify card details now.,,, suspicious,inc_susp_30
+msg_0131,Phisher_2,2026-10-06T19:20:00.000Z,Your account will be blocked in 24 hours. Send OTP immediately.,,, suspicious,inc_susp_31
+msg_0132,Tax_Scam_3,2026-10-06T19:40:00.000Z,This is an official notice. You owe outstanding taxes. Pay now.,,, suspicious,inc_susp_32
+msg_0133,Lottery_4,2026-10-06T20:00:00.000Z,You have won a lottery. Send your bank details to claim prize.,,, suspicious,inc_susp_33
+msg_0134,Imp_5,2026-10-06T20:20:00.000Z,New phone number. Please update your contacts. Need help urgently.,,, suspicious,inc_susp_34
+msg_0135,Delivery_6,2026-10-06T20:40:00.000Z,Your delivery is on hold. Confirm address and pay small fee.,, suspicious,inc_susp_35
+msg_0136,Offer_7,2026-10-06T21:00:00.000Z,Limited time offer! Claim your reward before it expires today.,,, suspicious,inc_susp_36
+msg_0137,Netflix_8,2026-10-06T21:20:00.000Z,Your account will be suspended. Update payment immediately.,,, suspicious,inc_susp_37
+msg_0138,Stalker_9,2026-10-06T21:40:00.000Z,I have information about you. Meet me or I will share it.,,, suspicious,inc_susp_38
+msg_0139,Coerce_10,2026-10-06T22:00:00.000Z,You must respond within one hour or consequences will follow.,,, suspicious,inc_susp_39
+msg_0140,Warn_11,2026-10-06T22:20:00.000Z,This is your final reminder. No other way out. Pay now.,,, suspicious,inc_susp_40
+msg_0141,Blackmail_12,2026-10-06T22:40:00.000Z,Send me your photos or I will post old ones online.,,, suspicious,inc_susp_41
+msg_0142,Fraud_13,2026-10-06T23:00:00.000Z,Verify your identity by sharing Aadhaar number. Official process.,,, suspicious,inc_susp_42
+msg_0143,UPI_14,2026-10-06T23:20:00.000Z,Your UPI PIN has been compromised. Re-enter to secure.,,, suspicious,inc_susp_43
+msg_0144,Police_15,2026-10-06T23:40:00.000Z,Police case registered against you. Call immediately to avoid arrest.,,, suspicious,inc_susp_44
+msg_0145,Bank_Fraud_1,2026-10-07T00:00:00.000Z,Calling from bank RBI. Account suspended. Verify card details now.,,, suspicious,inc_susp_45
+msg_0146,Phisher_2,2026-10-07T00:20:00.000Z,Your account will be blocked in 24 hours. Send OTP immediately.,,, suspicious,inc_susp_46
+msg_0147,Tax_Scam_3,2026-10-07T00:40:00.000Z,This is an official notice. You owe outstanding taxes. Pay now.,,, suspicious,inc_susp_47
+msg_0148,Lottery_4,2026-10-07T01:00:00.000Z,You have won a lottery. Send your bank details to claim prize.,,, suspicious,inc_susp_48
+msg_0149,Imp_5,2026-10-07T01:20:00.000Z,New phone number. Please update your contacts. Need help urgently.,,, suspicious,inc_susp_49
+msg_0150,Delivery_6,2026-10-07T01:40:00.000Z,Your delivery is on hold. Confirm address and pay small fee.,, suspicious,inc_susp_50
+msg_0151,Offer_7,2026-10-07T02:00:00.000Z,Limited time offer! Claim your reward before it expires today.,,, suspicious,inc_susp_51
+msg_0152,Netflix_8,2026-10-07T02:20:00.000Z,Your account will be suspended. Update payment immediately.,,, suspicious,inc_susp_52
+msg_0153,Stalker_9,2026-10-07T02:40:00.000Z,I have information about you. Meet me or I will share it.,,, suspicious,inc_susp_53
+msg_0154,Coerce_10,2026-10-07T03:00:00.000Z,You must respond within one hour or consequences will follow.,,, suspicious,inc_susp_54
+msg_0155,Warn_11,2026-10-07T03:20:00.000Z,This is your final reminder. No other way out. Pay now.,,, suspicious,inc_susp_55
+msg_0156,Blackmail_12,2026-10-07T03:40:00.000Z,Send me your photos or I will post old ones online.,,, suspicious,inc_susp_56
+msg_0157,Fraud_13,2026-10-07T04:00:00.000Z,Verify your identity by sharing Aadhaar number. Official process.,,, suspicious,inc_susp_57
+msg_0158,UPI_14,2026-10-07T04:20:00.000Z,Your UPI PIN has been compromised. Re-enter to secure.,,, suspicious,inc_susp_58
+msg_0159,Police_15,2026-10-07T04:40:00.000Z,Police case registered against you. Call immediately to avoid arrest.,,, suspicious,inc_susp_59
+msg_0160,Coerce_10,2026-10-07T05:00:00.000Z,You must respond within one hour or consequences will follow.,,, suspicious,inc_susp_60
+msg_0161,Warn_11,2026-10-07T05:20:00.000Z,This is your final reminder. No other way out. Pay now.,,, suspicious,inc_susp_61
+msg_0162,Blackmail_12,2026-10-07T05:40:00.000Z,Send me your photos or I will post old ones online.,,, suspicious,inc_susp_62
+msg_0163,Fraud_13,2026-10-07T06:00:00.000Z,Verify your identity by sharing Aadhaar number. Official process.,,, suspicious,inc_susp_63
+msg_0164,UPI_14,2026-10-07T06:20:00.000Z,Your UPI PIN has been compromised. Re-enter to secure.,,, suspicious,inc_susp_64
+msg_0165,Police_15,2026-10-07T06:40:00.000Z,Police case registered against you. Call immediately to avoid arrest.,,, suspicious,inc_susp_65
+msg_0166,Bank_Fraud_1,2026-10-07T07:00:00.000Z,Calling from bank RBI. Account suspended. Verify card details now.,,, suspicious,inc_susp_66
+msg_0167,Phisher_2,2026-10-07T07:20:00.000Z,Your account will be blocked in 24 hours. Send OTP immediately.,,, suspicious,inc_susp_67
+msg_0168,Tax_Scam_3,2026-10-07T07:40:00.000Z,This is an official notice. You owe outstanding taxes. Pay now.,,, suspicious,inc_susp_68
+msg_0169,Lottery_4,2026-10-07T08:00:00.000Z,You have won a lottery. Send your bank details to claim prize.,,, suspicious,inc_susp_69
+msg_0170,ThreatS_1,2026-10-11T08:00:00.000Z,You'll regret not replying. I will find you.,,, threat,inc_threat_0
+msg_0171,ThreatS_2,2026-10-11T08:25:00.000Z,I will hurt you if you don't do what I say.,,, threat,inc_threat_1
+msg_0172,ThreatS_3,2026-10-11T08:50:00.000Z,Watch your back. You can't hide from me.,,, threat,inc_threat_2
+msg_0173,ThreatS_4,2026-10-11T09:15:00.000Z,Send me the money or I will destroy your reputation.,,, threat,inc_threat_3
+msg_0174,ThreatS_5,2026-10-11T09:40:00.000Z,If you don't comply I will make your life miserable.,,, threat,inc_threat_4
+msg_0175,ThreatS_6,2026-10-11T10:05:00.000Z,This is not a joke. Send your OTP now or else.,,, threat,inc_threat_5
+msg_0176,ThreatS_7,2026-10-11T10:30:00.000Z,I know where you live. Don't test me.,,, threat,inc_threat_6
+msg_0177,ThreatS_8,2026-10-11T10:55:00.000Z,Last chance. Pay or I will post everything.,,, threat,inc_threat_7
+msg_0178,ThreatS_9,2026-10-11T11:20:00.000Z,You will suffer the consequences for ignoring me.,,, threat,inc_threat_8
+msg_0179,ThreatS_10,2026-10-11T11:45:00.000Z,Don't push me. You won't like what happens next.,,, threat,inc_threat_9
+msg_0180,ThreatS_1,2026-10-11T12:10:00.000Z,I will hurt you and your family if you go to police.,,, threat,inc_threat_10
+msg_0181,ThreatS_2,2026-10-11T12:35:00.000Z,You're mine. Nobody can help you.,,, threat,inc_threat_11
+msg_0182,ThreatS_3,2026-10-11T13:00:00.000Z,Send the photos immediately or I will send those to everyone.,,, threat,inc_threat_12
+msg_0183,ThreatS_4,2026-10-11T13:25:00.000Z,If you don't things will get very bad. I promise.,,, threat,inc_threat_13
+msg_0184,ThreatS_5,2026-10-11T13:50:00.000Z,No one can save you. I have everything I need.,,, threat,inc_threat_14
+msg_0185,ThreatS_6,2026-10-11T14:15:00.000Z,You'll regret not replying. I will find you.,,, threat,inc_threat_15
+msg_0186,ThreatS_7,2026-10-11T14:40:00.000Z,I will hurt you if you don't do what I say.,,, threat,inc_threat_16
+msg_0187,ThreatS_8,2026-10-11T15:05:00.000Z,Watch your back. You can't hide from me.,,, threat,inc_threat_17
+msg_0188,ThreatS_9,2026-10-11T15:30:00.000Z,Send me the money or I will destroy your reputation.,,, threat,inc_threat_18
+msg_0189,ThreatS_10,2026-10-11T15:55:00.000Z,If you don't comply I will make your life miserable.,,, threat,inc_threat_19
+msg_0190,ThreatS_1,2026-10-11T16:20:00.000Z,This is not a joke. Send your OTP now or else.,,, threat,inc_threat_20
+msg_0191,ThreatS_2,2026-10-11T16:45:00.000Z,I know where you live. Don't test me.,,, threat,inc_threat_21
+msg_0192,ThreatS_3,2026-10-11T17:10:00.000Z,Last chance. Pay or I will post everything.,,, threat,inc_threat_22
+msg_0193,ThreatS_4,2026-10-11T17:35:00.000Z,You will suffer the consequences for ignoring me.,,, threat,inc_threat_23
+msg_0194,ThreatS_5,2026-10-11T18:00:00.000Z,Don't push me. You won't like what happens next.,,, threat,inc_threat_24
+msg_0195,ThreatS_6,2026-10-11T18:25:00.000Z,I will hurt you and your family if you go to police.,,, threat,inc_threat_25
+msg_0196,ThreatS_7,2026-10-11T18:50:00.000Z,You're mine. Nobody can help you.,,, threat,inc_threat_26
+msg_0197,ThreatS_8,2026-10-11T19:15:00.000Z,Send the photos immediately or I will send those to everyone.,,, threat,inc_threat_27
+msg_0198,ThreatS_9,2026-10-11T19:40:00.000Z,If you don't things will get very bad. I promise.,,, threat,inc_threat_28
+msg_0199,ThreatS_10,2026-10-11T20:05:00.000Z,No one can save you. I have everything I need.,,, threat,inc_threat_29
+msg_0200,ThreatS_1,2026-10-11T20:30:00.000Z,You'll regret not replying. I will find you.,,, threat,inc_threat_30
+msg_0201,ThreatS_2,2026-10-11T20:55:00.000Z,I will hurt you if you don't do what I say.,,, threat,inc_threat_31
+msg_0202,ThreatS_3,2026-10-11T21:20:00.000Z,Watch your back. You can't hide from me.,,, threat,inc_threat_32
+msg_0203,ThreatS_4,2026-10-11T21:45:00.000Z,Send me the money or I will destroy your reputation.,,, threat,inc_threat_33
+msg_0204,ThreatS_5,2026-10-11T22:10:00.000Z,If you don't comply I will make your life miserable.,,, threat,inc_threat_34
+msg_0205,ThreatS_6,2026-10-11T22:35:00.000Z,This is not a joke. Send your OTP now or else.,,, threat,inc_threat_35
+msg_0206,ThreatS_7,2026-10-11T23:00:00.000Z,I know where you live. Don't test me.,,, threat,inc_threat_36
+msg_0207,ThreatS_8,2026-10-11T23:25:00.000Z,Last chance. Pay or I will post everything.,,, threat,inc_threat_37
+msg_0208,ThreatS_9,2026-10-11T23:50:00.000Z,You will suffer the consequences for ignoring me.,,, threat,inc_threat_38
+msg_0209,ThreatS_10,2026-10-12T00:15:00.000Z,Don't push me. You won't like what happens next.,,, threat,inc_threat_39
+msg_0210,ThreatS_1,2026-10-12T00:40:00.000Z,I will hurt you and your family if you go to police.,,, threat,inc_threat_40
+msg_0211,ThreatS_2,2026-10-12T01:05:00.000Z,You're mine. Nobody can help you.,,, threat,inc_threat_41
+msg_0212,ThreatS_3,2026-10-12T01:30:00.000Z,Send the photos immediately or I will send those to everyone.,,, threat,inc_threat_42
+msg_0213,ThreatS_4,2026-10-12T01:55:00.000Z,If you don't things will get very bad. I promise.,,, threat,inc_threat_43
+msg_0214,ThreatS_5,2026-10-12T02:20:00.000Z,No one can save you. I have everything I need.,,, threat,inc_threat_44
+msg_0215,ThreatS_6,2026-10-12T02:45:00.000Z,You'll regret not replying. I will find you.,,, threat,inc_threat_45
+msg_0216,ThreatS_7,2026-10-12T03:10:00.000Z,I will hurt you if you don't do what I say.,,, threat,inc_threat_46
+msg_0217,ThreatS_8,2026-10-12T03:35:00.000Z,Watch your back. You can't hide from me.,,, threat,inc_threat_47
+msg_0218,ThreatS_9,2026-10-12T04:00:00.000Z,Send me the money or I will destroy your reputation.,,, threat,inc_threat_48
+msg_0219,ThreatS_10,2026-10-12T04:25:00.000Z,If you don't comply I will make your life miserable.,,, threat,inc_threat_49
+msg_0220,ThreatS_1,2026-10-12T04:50:00.000Z,This is not a joke. Send your OTP now or else.,,, threat,inc_threat_50
+msg_0221,ThreatS_2,2026-10-12T05:15:00.000Z,I know where you live. Don't test me.,,, threat,inc_threat_51
+msg_0222,ThreatS_3,2026-10-12T05:40:00.000Z,Last chance. Pay or I will post everything.,,, threat,inc_threat_52
+msg_0223,ThreatS_4,2026-10-12T06:05:00.000Z,You will suffer the consequences for ignoring me.,,, threat,inc_threat_53
+msg_0224,ThreatS_5,2026-10-12T06:30:00.000Z,Don't push me. You won't like what happens next.,,, threat,inc_threat_54
+msg_0225,ThreatS_6,2026-10-12T06:55:00.000Z,I will hurt you and your family if you go to police.,,, threat,inc_threat_55
+msg_0226,ThreatS_7,2026-10-12T07:20:00.000Z,You're mine. Nobody can help you.,,, threat,inc_threat_56
+msg_0227,ThreatS_8,2026-10-12T07:45:00.000Z,Send the photos immediately or I will send those to everyone.,,, threat,inc_threat_57
+msg_0228,ThreatS_9,2026-10-12T08:10:00.000Z,If you don't things will get very bad. I promise.,,, threat,inc_threat_58
+msg_0229,ThreatS_10,2026-10-12T08:35:00.000Z,No one can save you. I have everything I need.,,, threat,inc_threat_59
+msg_0230,Seq0_Escalator,2026-10-16T08:00:00.000Z,Hey just wanted to say hi.,,, safe,inc_seq_0
+msg_0231,Seq0_Escalator,2026-10-16T08:20:00.000Z,You haven't replied. Are you ignoring me?,,, suspicious,inc_seq_0
+msg_0232,Seq0_Escalator,2026-10-16T08:40:00.000Z,This is rude. I expect a response.,,, suspicious,inc_seq_0
+msg_0233,Seq0_Escalator,2026-10-16T09:00:00.000Z,If you don't reply I will come to your office.,,, threat,inc_seq_0
+msg_0234,Seq0_Escalator,2026-10-16T09:20:00.000Z,You'll regret this. I will make sure of it.,,, threat,inc_seq_0
+msg_0235,Seq1_BankFraud,2026-10-16T10:00:00.000Z,Hi this is your bank. We noticed unusual activity.,,, suspicious,inc_seq_1
+msg_0236,Seq1_BankFraud,2026-10-16T10:20:00.000Z,Your account may be compromised. Please verify.,,, suspicious,inc_seq_1
+msg_0237,Seq1_BankFraud,2026-10-16T10:40:00.000Z,Share your OTP to secure your account now.,,, threat,inc_seq_1
+msg_0238,Seq1_BankFraud,2026-10-16T11:00:00.000Z,This is urgent. Last chance to protect your account.,,, suspicious,inc_seq_1
+msg_0239,Seq2_Stalker,2026-10-16T11:00:00.000Z,Hi! Do you remember me from college?,,, safe,inc_seq_2
+msg_0240,Seq2_Stalker,2026-10-16T11:30:00.000Z,We should meet up sometime.,,, safe,inc_seq_2
+msg_0241,Seq2_Stalker,2026-10-16T12:00:00.000Z,I've been following your posts. You look great.,,, suspicious,inc_seq_2
+msg_0242,Seq2_Stalker,2026-10-16T12:30:00.000Z,Why are you ignoring me? I know where you work.,,, threat,inc_seq_2
+msg_0243,Seq2_Stalker,2026-10-16T13:00:00.000Z,Send me your number or I will find other ways to contact you.,,, threat,inc_seq_2
+msg_0244,Seq2_Stalker,2026-10-16T13:30:00.000Z,You can't hide from me. Don't make this harder.,,, threat,inc_seq_2
+msg_0245,Seq3_Prize,2026-10-16T14:00:00.000Z,Congratulations! You've been selected for our prize draw.,,, suspicious,inc_seq_3
+msg_0246,Seq3_Prize,2026-10-16T14:20:00.000Z,To claim send a small processing fee of Rs. 500.,,, suspicious,inc_seq_3
+msg_0247,Seq3_Prize,2026-10-16T14:40:00.000Z,Transfer to: bit.ly/claim-now. Offer expires today!,bit.ly/claim-now,, suspicious,inc_seq_3
+msg_0248,Seq4_Safe,2026-10-16T15:00:00.000Z,Hey running 10 minutes late.,,, safe,inc_seq_4
+msg_0249,Seq4_Safe,2026-10-16T15:10:00.000Z,Almost there — traffic is bad.,,, safe,inc_seq_4
+msg_0250,Seq4_Safe,2026-10-16T15:20:00.000Z,Just parked! Coming in now.,,, safe,inc_seq_4
+msg_0251,Seq5_Escalator,2026-10-17T08:00:00.000Z,Hey just wanted to say hi.,,, safe,inc_seq_5
+msg_0252,Seq5_Escalator,2026-10-17T08:20:00.000Z,You haven't replied. Are you ignoring me?,,, suspicious,inc_seq_5
+msg_0253,Seq5_Escalator,2026-10-17T08:40:00.000Z,This is rude. I expect a response.,,, suspicious,inc_seq_5
+msg_0254,Seq5_Escalator,2026-10-17T09:00:00.000Z,If you don't reply I will come to your office.,,, threat,inc_seq_5
+msg_0255,Seq5_Escalator,2026-10-17T09:20:00.000Z,You'll regret this. I will make sure of it.,,, threat,inc_seq_5
+msg_0256,Seq6_BankFraud,2026-10-17T10:00:00.000Z,Hi this is your bank. We noticed unusual activity.,,, suspicious,inc_seq_6
+msg_0257,Seq6_BankFraud,2026-10-17T10:20:00.000Z,Your account may be compromised. Please verify.,,, suspicious,inc_seq_6
+msg_0258,Seq6_BankFraud,2026-10-17T10:40:00.000Z,Share your OTP to secure your account now.,,, threat,inc_seq_6
+msg_0259,Seq6_BankFraud,2026-10-17T11:00:00.000Z,This is urgent. Last chance to protect your account.,,, suspicious,inc_seq_6
+msg_0260,Seq7_Stalker,2026-10-17T11:00:00.000Z,Hi! Do you remember me from college?,,, safe,inc_seq_7
+msg_0261,Seq7_Stalker,2026-10-17T11:30:00.000Z,We should meet up sometime.,,, safe,inc_seq_7
+msg_0262,Seq7_Stalker,2026-10-17T12:00:00.000Z,I've been following your posts. You look great.,,, suspicious,inc_seq_7
+msg_0263,Seq7_Stalker,2026-10-17T12:30:00.000Z,Why are you ignoring me? I know where you work.,,, threat,inc_seq_7
+msg_0264,Seq7_Stalker,2026-10-17T13:00:00.000Z,Send me your number or I will find other ways to contact you.,,, threat,inc_seq_7
+msg_0265,Seq7_Stalker,2026-10-17T13:30:00.000Z,You can't hide from me. Don't make this harder.,,, threat,inc_seq_7
+msg_0266,Seq8_Prize,2026-10-17T14:00:00.000Z,Congratulations! You've been selected for our prize draw.,,, suspicious,inc_seq_8
+msg_0267,Seq8_Prize,2026-10-17T14:20:00.000Z,To claim send a small processing fee of Rs. 500.,,, suspicious,inc_seq_8
+msg_0268,Seq8_Prize,2026-10-17T14:40:00.000Z,Transfer to: bit.ly/claim-now. Offer expires today!,bit.ly/claim-now,, suspicious,inc_seq_8
+msg_0269,Seq9_Safe,2026-10-17T15:00:00.000Z,Hey running 10 minutes late.,,, safe,inc_seq_9
+msg_0270,Seq9_Safe,2026-10-17T15:10:00.000Z,Almost there — traffic is bad.,,, safe,inc_seq_9
+msg_0271,Seq9_Safe,2026-10-17T15:20:00.000Z,Just parked! Coming in now.,,, safe,inc_seq_9
+msg_0272,Seq10_Escalator,2026-10-18T08:00:00.000Z,Hey just wanted to say hi.,,, safe,inc_seq_10
+msg_0273,Seq10_Escalator,2026-10-18T08:20:00.000Z,You haven't replied. Are you ignoring me?,,, suspicious,inc_seq_10
+msg_0274,Seq10_Escalator,2026-10-18T08:40:00.000Z,This is rude. I expect a response.,,, suspicious,inc_seq_10
+msg_0275,Seq10_Escalator,2026-10-18T09:00:00.000Z,If you don't reply I will come to your office.,,, threat,inc_seq_10
+msg_0276,Seq10_Escalator,2026-10-18T09:20:00.000Z,You'll regret this. I will make sure of it.,,, threat,inc_seq_10
+msg_0277,Seq11_BankFraud,2026-10-18T10:00:00.000Z,Hi this is your bank. We noticed unusual activity.,,, suspicious,inc_seq_11
+msg_0278,Seq11_BankFraud,2026-10-18T10:20:00.000Z,Your account may be compromised. Please verify.,,, suspicious,inc_seq_11
+msg_0279,Seq11_BankFraud,2026-10-18T10:40:00.000Z,Share your OTP to secure your account now.,,, threat,inc_seq_11
+msg_0280,Seq11_BankFraud,2026-10-18T11:00:00.000Z,This is urgent. Last chance to protect your account.,,, suspicious,inc_seq_11
+msg_0281,Seq12_Stalker,2026-10-18T11:00:00.000Z,Hi! Do you remember me from college?,,, safe,inc_seq_12
+msg_0282,Seq12_Stalker,2026-10-18T11:30:00.000Z,We should meet up sometime.,,, safe,inc_seq_12
+msg_0283,Seq12_Stalker,2026-10-18T12:00:00.000Z,I've been following your posts. You look great.,,, suspicious,inc_seq_12
+msg_0284,Seq12_Stalker,2026-10-18T12:30:00.000Z,Why are you ignoring me? I know where you work.,,, threat,inc_seq_12
+msg_0285,Seq12_Stalker,2026-10-18T13:00:00.000Z,Send me your number or I will find other ways to contact you.,,, threat,inc_seq_12
+msg_0286,Seq12_Stalker,2026-10-18T13:30:00.000Z,You can't hide from me. Don't make this harder.,,, threat,inc_seq_12
+msg_0287,Seq13_Prize,2026-10-18T14:00:00.000Z,Congratulations! You've been selected for our prize draw.,,, suspicious,inc_seq_13
+msg_0288,Seq13_Prize,2026-10-18T14:20:00.000Z,To claim send a small processing fee of Rs. 500.,,, suspicious,inc_seq_13
+msg_0289,Seq13_Prize,2026-10-18T14:40:00.000Z,Transfer to: bit.ly/claim-now. Offer expires today!,bit.ly/claim-now,, suspicious,inc_seq_13
+msg_0290,Seq14_Safe,2026-10-18T15:00:00.000Z,Hey running 10 minutes late.,,, safe,inc_seq_14
+msg_0291,Seq14_Safe,2026-10-18T15:10:00.000Z,Almost there — traffic is bad.,,, safe,inc_seq_14
+msg_0292,Seq14_Safe,2026-10-18T15:20:00.000Z,Just parked! Coming in now.,,, safe,inc_seq_14
+msg_0293,Seq15_Escalator,2026-10-19T08:00:00.000Z,Hey just wanted to say hi.,,, safe,inc_seq_15
+msg_0294,Seq15_Escalator,2026-10-19T08:20:00.000Z,You haven't replied. Are you ignoring me?,,, suspicious,inc_seq_15
+msg_0295,Seq15_Escalator,2026-10-19T08:40:00.000Z,This is rude. I expect a response.,,, suspicious,inc_seq_15
+msg_0296,Seq15_Escalator,2026-10-19T09:00:00.000Z,If you don't reply I will come to your office.,,, threat,inc_seq_15
+msg_0297,Seq15_Escalator,2026-10-19T09:20:00.000Z,You'll regret this. I will make sure of it.,,, threat,inc_seq_15
+msg_0298,Seq16_BankFraud,2026-10-19T10:00:00.000Z,Hi this is your bank. We noticed unusual activity.,,, suspicious,inc_seq_16
+msg_0299,Seq16_BankFraud,2026-10-19T10:20:00.000Z,Your account may be compromised. Please verify.,,, suspicious,inc_seq_16
+msg_0300,Seq16_BankFraud,2026-10-19T10:40:00.000Z,Share your OTP to secure your account now.,,, threat,inc_seq_16
+msg_0301,Seq16_BankFraud,2026-10-19T11:00:00.000Z,This is urgent. Last chance to protect your account.,,, suspicious,inc_seq_16
+msg_0302,Seq17_Stalker,2026-10-19T11:00:00.000Z,Hi! Do you remember me from college?,,, safe,inc_seq_17
+msg_0303,Seq17_Stalker,2026-10-19T11:30:00.000Z,We should meet up sometime.,,, safe,inc_seq_17
+msg_0304,Seq17_Stalker,2026-10-19T12:00:00.000Z,I've been following your posts. You look great.,,, suspicious,inc_seq_17
+msg_0305,Seq17_Stalker,2026-10-19T12:30:00.000Z,Why are you ignoring me? I know where you work.,,, threat,inc_seq_17
+msg_0306,Seq17_Stalker,2026-10-19T13:00:00.000Z,Send me your number or I will find other ways to contact you.,,, threat,inc_seq_17
+msg_0307,Seq17_Stalker,2026-10-19T13:30:00.000Z,You can't hide from me. Don't make this harder.,,, threat,inc_seq_17
+msg_0308,Seq18_Prize,2026-10-19T14:00:00.000Z,Congratulations! You've been selected for our prize draw.,,, suspicious,inc_seq_18
+msg_0309,Seq18_Prize,2026-10-19T14:20:00.000Z,To claim send a small processing fee of Rs. 500.,,, suspicious,inc_seq_18
+msg_0310,Seq18_Prize,2026-10-19T14:40:00.000Z,Transfer to: bit.ly/claim-now. Offer expires today!,bit.ly/claim-now,, suspicious,inc_seq_18
+msg_0311,Seq19_Safe,2026-10-19T15:00:00.000Z,Hey running 10 minutes late.,,, safe,inc_seq_19
+msg_0312,Seq19_Safe,2026-10-19T15:10:00.000Z,Almost there — traffic is bad.,,, safe,inc_seq_19
+msg_0313,Seq19_Safe,2026-10-19T15:20:00.000Z,Just parked! Coming in now.,,, safe,inc_seq_19
+msg_0314,Seq20_Escalator,2026-10-20T08:00:00.000Z,Hey just wanted to say hi.,,, safe,inc_seq_20
+msg_0315,Seq20_Escalator,2026-10-20T08:20:00.000Z,You haven't replied. Are you ignoring me?,,, suspicious,inc_seq_20
+msg_0316,Seq20_Escalator,2026-10-20T08:40:00.000Z,This is rude. I expect a response.,,, suspicious,inc_seq_20
+msg_0317,Seq20_Escalator,2026-10-20T09:00:00.000Z,If you don't reply I will come to your office.,,, threat,inc_seq_20
+msg_0318,Seq20_Escalator,2026-10-20T09:20:00.000Z,You'll regret this. I will make sure of it.,,, threat,inc_seq_20
+msg_0319,Extra_Safe_1,2026-10-21T09:00:00.000Z,The coffee was delicious. Let's go again soon!,,, safe,inc_extra_0
+msg_0320,Extra_Safe_2,2026-10-21T09:30:00.000Z,Great job on the presentation today!,,, safe,inc_extra_1
+msg_0321,Extra_Threat_1,2026-10-21T10:00:00.000Z,I will make your life hell if you do not pay.,,, threat,inc_extra_2
+msg_0322,Extra_Suspicious_1,2026-10-21T10:30:00.000Z,Click this link tinyurl.com/win to claim your prize.,tinyurl.com/win,, suspicious,inc_extra_3
+msg_0323,Extra_Safe_3,2026-10-21T11:00:00.000Z,See you at the party tonight!,,, safe,inc_extra_4
+msg_0324,Extra_Threat_2,2026-10-21T11:30:00.000Z,You can not hide from me. I know your address.,,, threat,inc_extra_5
+msg_0325,Extra_Safe_4,2026-10-21T12:00:00.000Z,Thanks for looking after my cat this week.,,, safe,inc_extra_6
+msg_0326,Extra_Suspicious_2,2026-10-21T12:30:00.000Z,Verify your UPI details immediately to avoid block.,,, suspicious,inc_extra_7
+msg_0327,Extra_Safe_5,2026-10-21T13:00:00.000Z,Hey! Long time no talk. How's the family?,,, safe,inc_extra_8
+msg_0328,Extra_Threat_3,2026-10-21T13:30:00.000Z,Send photos of yourself or else I release the others.,,, threat,inc_extra_9
+msg_0329,Extra_Safe_6,2026-10-21T14:00:00.000Z,The weather is so nice today. Are you going for a walk?,,, safe,inc_extra_10
